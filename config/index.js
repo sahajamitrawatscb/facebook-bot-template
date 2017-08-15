@@ -1,8 +1,8 @@
 const config = {
   development: {
-    token: 'EAABiYReOVi4BAHB0KvhbFhZBRaygkwrZA1x9mORQZBBwcR35fEe5QLFWFlRpP6PBDjbc6Yv7cPHu9ss0YmsrXZBhRZBbM1dEsYWkD3DYwyYbB33CQuQGqBhPSPwxNAZCoXQuMTUZAsXcmbatpUgrbKdySN2l28kwphJ9pmd2HZA0jQZDZD',
+    token: 'xxxxxxxxx',
     verify: 'greatestbotonearth',
-    app_secret: '2831c9328f062dc6ac8e2399c98b486f'
+    app_secret: 'xxxxxx'
   },
   production: {
     token: process.env.facebook_token,
